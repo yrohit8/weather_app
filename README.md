@@ -1,4 +1,4 @@
-# [Weather App](https://weather-app-sigma-two-67.vercel.app/)
+# [Weather App](https://weather-app-chi-green.vercel.app/)
 
 ## How to run the project locally in your machine:
 
