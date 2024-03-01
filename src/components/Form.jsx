@@ -30,6 +30,7 @@ const InputContainer = styled(Box)(({ theme }) => ({
   marginTop: "20px",
   backgroundColor: "white",
   borderRadius: "3px",
+  padding:"5px",
   [theme.breakpoints.down("md")]: { marginTop: "0px" },
   [theme.breakpoints.down("sm")]: { marginTop: "0px" },
   [theme.breakpoints.down("xs")]: { marginTop: "0px" },
